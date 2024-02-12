@@ -24,4 +24,3 @@ def make_drink(drink, addons):
 
 final_drink = make_drink('strawberry milkshake', ['milk', 'sugar'])
 print(final_drink)
-

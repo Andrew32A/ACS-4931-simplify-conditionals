@@ -28,4 +28,3 @@ def make_shirazi_salad(ingredients):
 
 if __name__ == "__main__":
     make_shirazi_salad(['cucumber', 'tomato', 'lemon juice', 'onion'])
-

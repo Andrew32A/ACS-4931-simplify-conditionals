@@ -24,4 +24,3 @@ else:
     print('Toxin Free')
     print('***')
     make_accept_sound()
-
